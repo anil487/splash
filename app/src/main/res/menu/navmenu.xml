@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+  <item android:title="Introduction"
+      android:id="@+id/menu_intro"
+      android:icon="@drawable/intro1"/>
+
+    <item android:title="services"
+        android:id="@+id/menu_services"/>
+
+    <item android:title="Tranings"
+        android:id="@+id/menu_Tranings"/>
+
+    <item android:title="Feature Products"
+        android:id="@+id/menu_product"/>
+
+    <item android:title="Contact Us"
+        android:id="@+id/menu_Contact"/>
+
+</menu>
